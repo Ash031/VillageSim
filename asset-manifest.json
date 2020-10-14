@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VillageSim/static/css/main.5f361e03.chunk.css",
+    "main.js": "/VillageSim/static/js/main.056e9fd8.chunk.js",
+    "main.js.map": "/VillageSim/static/js/main.056e9fd8.chunk.js.map",
+    "runtime-main.js": "/VillageSim/static/js/runtime-main.93fee330.js",
+    "runtime-main.js.map": "/VillageSim/static/js/runtime-main.93fee330.js.map",
+    "static/js/2.14be2578.chunk.js": "/VillageSim/static/js/2.14be2578.chunk.js",
+    "static/js/2.14be2578.chunk.js.map": "/VillageSim/static/js/2.14be2578.chunk.js.map",
+    "index.html": "/VillageSim/index.html",
+    "precache-manifest.ba8e175113ace69451fd922d64f90fa0.js": "/VillageSim/precache-manifest.ba8e175113ace69451fd922d64f90fa0.js",
+    "service-worker.js": "/VillageSim/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/VillageSim/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.14be2578.chunk.js.LICENSE.txt": "/VillageSim/static/js/2.14be2578.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/VillageSim/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93fee330.js",
+    "static/js/2.14be2578.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.056e9fd8.chunk.js"
+  ]
+}
